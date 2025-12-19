@@ -37,8 +37,8 @@ int main() {
     }
   }
   
-  cout << "\nSum of positive elements above main diagonal: " << sum << endl;
-  cout << "Count of positive elements above main diagonal: " << count << endl;
+  cout << "\nsum of posotive numbers up the main diagonal: "  << sum   << endl;
+  cout << "number of positive elements above main diagonal: " << count << endl;
   
   return 0;
 }
